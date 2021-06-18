@@ -14,14 +14,14 @@ var fishingrod;
 var fishgroup;
 
 function preload(){
-    bgimg=loadImage("sprites/backgroundImg.jpg");
-    fish1img=loadImage("sprites/fish1img.png");
-    fish2img=loadImage("sprites/fish2img.png");
-    fishingpoleimg=loadImage("sprites/fishingpoleimg.png");
-    fishingrodimg=loadImage("sprites/fishingrodimg.png")
-    fishinghookimg=loadImage("sprites/fishinghookimg.png")
-    fish3img=loadImage("sprites/fish3img.png");
-    fish4img=loadImage("sprites/fish4img.png");
+    bgimg=loadImage("backgroundImg.jpg");
+    fish1img=loadImage("fish1img.png");
+    fish2img=loadImage("fish2img.png");
+    fishingpoleimg=loadImage("fishingpoleimg.png");
+    fishingrodimg=loadImage("fishingrodimg.png")
+    fishinghookimg=loadImage("fishinghookimg.png")
+    fish3img=loadImage("fish3img.png");
+    fish4img=loadImage("fish4img.png");
 }   
 
 function setup(){
